@@ -1,7 +1,7 @@
-# AGRICULTURE PREDICT INSIGHTS 🌿
+# HARVESTIFY 🌿
 #### A simple ML and DL based website which recommends the best crop to grow, fertilizers to use and the diseases caught by your crops.
 
-#### 
+#### This project is featured on [Krish Naik's](https://www.youtube.com/channel/UCNU_lfiiWBdtULKOw6X0Dig) YouTube Channel => Check it out [here](https://www.youtube.com/watch?v=zJcSod-L-Ps)
 
 ## DISCLAIMER ⚠️
 This is a POC(Proof of concept) kind-of project. The data used here comes up with no guarantee from the creator. So, don't use it for making farming decisions. If you do so, the creator is not responsible for anything. However, this project presents the idea that how we can use ML/DL into precision farming if developed at large scale and with authentic and verified data.
@@ -140,4 +140,4 @@ This project is licensed under [GNU (GENERAL PUBLIC LICENSE)](https://github.com
 
 ## Contact 📞
 
-#### If you have any doubt or want to contribute feel free to email me or hit me up on linked-in seelam Neelima
+#### If you have any doubt or want to contribute feel free to email me or hit me up on [LinkedIn](https://www.linkedin.com/in/atharva-ingle-564430187/)
